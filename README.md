@@ -7,3 +7,11 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://twitter.com/Knowdev09" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Knowdev09&show_icons=true&locale=en&layout=compact" alt="Knowdev09" /></p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
